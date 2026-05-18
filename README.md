@@ -16,3 +16,8 @@
  - Performance Testing: JMeter	
  - Databases: MySQL, SQL
  - Programming Languages: Java, JavaScript, C#, Python
+
+##  Selected Certifications
+ - From Oracle AI Foundations Associate: AI, ML, Deep Learning, LLMs, and Generative AI 	|     Link: bit.ly/oracleAI25
+ - From LinkedIn:  HTML, CSS, JavaScript, Agile
+ - From EDUONIX:  Linux  
