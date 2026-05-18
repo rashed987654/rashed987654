@@ -17,6 +17,18 @@
  - Databases: MySQL, SQL
  - Programming Languages: Java, JavaScript, C#, Python
 
+##  Explore QA Artifacts
+Explore QA Artifacts
+📦 Section	🔗 Link	📝 Description
+🧪 Test Cases	Test_Cases/	Functional test cases with clear steps and expected outcomes
+📋 Bug Reports	Bug_Reports/	Issue reports with reproduction steps and observed behavior
+🗂️ Test Plans	Test_Plans/	Strategy documents outlining testing scope, goals, and approach
+✅ Checklists	Checklists/	Validation guides for design, accessibility, and localization
+🔌 API Testing	API_Testing/	Postman samples, mock API responses, request validations
+💾 SQL Queries	SQL_Queries/	SQL queries for data validation, joins, and aggregations
+📊 Test Reports	Test_Reports/	Metrics and release-level execution summaries
+🧠 Mindmaps	Mindmaps/	QA logic flows and planning diagrams
+
 ##  Selected Certifications
  - From Oracle AI Foundations Associate: AI, ML, Deep Learning, LLMs, and Generative AI 	|     Link: bit.ly/oracleAI25
  - From LinkedIn:  HTML, CSS, JavaScript, Agile
