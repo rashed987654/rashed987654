@@ -17,8 +17,8 @@
  - Databases: MySQL, SQL
  - Programming Languages: Java, JavaScript, C#, Python
 
-# 📁 Explore QA Artifacts
 
+##  QA Artifacts
 | 📌 Section      | 🔗 Link            | 📝 Description |
 |----------------|-------------------|----------------|
 | 🧪 Test Cases   | [Test_Cases](./Test_Cases/) | Functional test cases with clear steps and expected outcomes |
