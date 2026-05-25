@@ -7,7 +7,6 @@
   - ⚡ Fun fact: I love testing real-world projects and finding edge-case bugs
 
 ##  Skill
- - Tools: Git, GitHub, Docker
  - Automation (Web & Mobile): Playwright, Selenium, TestNG, Appium
  - Bug Tracking & Test Management: Jira	
  - API Testing: REST Assured, Postman				
