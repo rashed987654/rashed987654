@@ -18,16 +18,6 @@
 
 
 ##  Experience
- - Automation (Web & Mobile): Playwright, Selenium, TestNG, Appium
- - Bug Tracking & Test Management: Jira	
- - API Testing: REST Assured, Postman				
- - CI/CD & Version Control: Git, GitHub Actions, Jenkins	
- - Methodologies: Agile, Scrum		
- - Performance Testing: JMeter	
- - Databases: MySQL, SQL
- - Programming Languages: Java, JavaScript, C#, Python
-
-Experience _______________________________________________________________________________________
 1. Implementation Manager
    Wagely | Oct 2021 - Jul 2025
    Key Responsibilities:
