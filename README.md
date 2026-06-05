@@ -6,6 +6,13 @@
   - 🎯 Goal: Become a strong Automation & Security Testing Engineer by 2026
   - ⚡ Fun fact: I love testing real-world projects and finding edge-case bugs
 
+  - •   Automation (Web & Mobile): Playwright, Selenium, TestNG, Appium	•   Programming: JavaScript, Java, C#, Python
+•   API Testing: REST Assured, Postman				•   Bug Tracking & Test Management: Jira
+•   CI/CD & Version Control: Jenkins, GitHub Actions, Git			•   Methodologies: Agile, Scrum
+•   Performance Testing: JMeter					•   Database: SQL, MySQL
+
+
+
 ##  Skill
  - Automation (Web & Mobile): Playwright, Selenium, TestNG, Appium
  - Bug Tracking & Test Management: Jira	
