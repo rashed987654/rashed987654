@@ -47,15 +47,15 @@
 ##  Projects
   - **QTEC SOLUTION** – Software development platform | [Site Link](https://staging.qtecsolution.com/) | [Project GitHub Link](https://github.com/rashed987654/playwright-qtecsolution.git) (Web) | Platform: Playwright with JS | Status: Active
   - **BECHAKEENA**  – Wholesale trading platform | [Site Link](https://devcore.bechakeena.com/login) | [Project GitHub Link](https://github.com/rashed987654/playwright-admin_panel.git) (Admin) | Platform: Playwright with JS | Status: Active
-  - **WAGELY** – Financial wellness platform | Launch Location: Dhaka | Site Link | Additional Projects: Prepaid Card with MTB, Grocery Benefits with Shwapno, Instant Payments via bKash, BNPL for Smartphones & Insurance with Shadhin Fintech,
-  - **RAWBOUGHT** – Online clothing store | Launch Location: Singapore | Site Link | Status: Activeg
+  - **WAGELY** – Financial wellness platform | Launch Location: Dhaka | [Site Link](https://web.wagely.app/) | Additional Projects: Prepaid Card with MTB, Grocery Benefits with Shwapno, Instant Payments via bKash, BNPL for Smartphones & Insurance with Shadhin Fintech,
+  - **RAWBOUGHT** – Online clothing store | Launch Location: Singapore | [Site Link](https://rawbought.com/) | Status: Activeg
   - **KINSHIP AI** – HR management system for factory communication| Launch Location: Dhaka | Site Link | Status: Inactive
   - **BOATLAH** – Online boat rental platform | Launch Location: Singapore | Site Link| Status: Inactive
   - **HEAVYGARI** – Online truck and minivan rental service | Launch Location: Dhaka |  Site Link| Status: Inactive
   - **ERRAND BOY** – Online courier service | Launch Location: Singapore | Site Link | Status: Inactive
   - **BLISS** – Online hotel booking platform | Launch Location: Singapore | Site Link | Status: Active
 
-[Project GitHub Link](https://github.com/rashed987654/playwright-admin_panel.git)
+[Site Link](https://web.wagely.app/)
 
 
 
