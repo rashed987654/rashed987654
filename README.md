@@ -17,7 +17,6 @@
  - Databases: MySQL, SQL
  - Programming Languages: Java, JavaScript, C#, Python
 
-
 ##  Experience
 1️⃣ **Implementation Manager**<br>									
     **Wagely** | *Oct 2021 - Jul 2025*<br>
@@ -28,12 +27,22 @@
   - Stakeholder Communication & Coordination: Coordinated with internal teams, clients, and vendors to ensure smooth execution.	
   - Monitoring & Reporting: Monitored performance and implementation activities, and prepared progress reports.
   - Documentation: Maintained SOPs, technical documents, and implementation records to ensure process consistency.
-  - Monitoring & Reporting: Monitored performance and implementation activities, and prepared progress reports.
-  - Documentation: Maintained SOPs, technical documents, and implementation records to ensure process consistency.
 
-
-
-
+2️⃣ **Automation QA Engineer**<br>									
+    **Kutumbita Ltd** | *Jan 2019 - Jan 2021*<br>
+  - Automation Testing (Web & Mobile):  Built Playwright automation frameworks for web and mobile apps, reducing manual testing effort and improving test coverage across multiple releases	
+  - API Testing: Conducted API validation using Postman & REST Assured
+  - CI/CD: Integrated automated test into Jenkins pipelines for continuous testing and reducing release validation time
+  - Bug Tracking: Managed defects in Jira with logs, screenshots, and videos, improving resolution time
+  - Performance Testing: Designed and executed JMeter performance tests to identify bottlenecks and improve system performance.
+  - Testing Types:  Performed functional, regression, and smoke testing, improving product stability and reducing production defects.
+  - 
+3️⃣ **Manual QA Engineer**<br>									
+    **HIFI Digital Ltd** | *Jan 2018 - Dec 2018*<br>
+  - Test Planning & Design: Created test plans, designed test cases, and prepared test data, ensuring better product quality.
+  - Manual Testing (Web & Mobile): Executed functional, regression, and smoke tests, improving application quality and stability.
+  - Defect Tracking: Reported and tracked bugs in Jira, improving issue resolution and product stability.
+  - Load Testing (JMeter): Used JMeter for load testing to validate system performance and ensure application stability.
 
 ##  Projects
   - QTEC SOLUTION – Software development platform | Site Link | Project GitHub Link (Web) | Platform: Playwright with JS | Status: Active
@@ -45,8 +54,6 @@
   - HEAVYGARI – Online truck and minivan rental service | Launch Location: Dhaka |  Site Link| Status: Inactive
   - ERRAND BOY – Online courier service | Launch Location: Singapore | Site Link | Status: Inactive
   - BLISS – Online hotel booking platform | Launch Location: Singapore | Site Link | Status: Active
-
-
 
 
 
