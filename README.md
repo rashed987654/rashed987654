@@ -16,7 +16,7 @@
  - Databases: MySQL, SQL
  - Programming Languages: Java, JavaScript, C#, Python
  - 
- - ##  Projects
+##  Projects
   - QTEC SOLUTION – Software development platform | Site Link | Project GitHub Link (Web) | Platform: Playwright with JS | Status: Active
   - BECHAKEENA  – Wholesale trading platform | Site Link | Project GitHub Link (Admin) | Platform: Playwright with JS | Status: Active
   - WAGELY – Financial wellness platform | Launch Location: Dhaka | Site Link | Additional Projects: Prepaid Card with MTB, Grocery Benefits with Shwapno, Instant Payments via bKash, BNPL for Smartphones & Insurance with Shadhin Fintech,
