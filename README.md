@@ -56,9 +56,9 @@
   - **BLISS** – Online hotel booking platform | Launch Location: Singapore | [Site Link](https://www.blisshotel.com.sg/) | Status: Active
 
 ##  ertifications
-| 📌 Organization     | 🔗 Course Name           | 📝 Skill gain  | 📝 Link  |
+| 📌 Organization     | 📝  Course Name           | 📝 Skill Gained  | 🔗 Link  |
 |----------------|-------------------|----------------|----------------|
-|  - Oracel Inc   | AI Foundations Associate | AI, ML, Deep Learning, LLMs, and Generative AI |
+|  - Oracle      | AI Foundations Associate  | AI, ML, Deep Learning, LLMs, and Generative AI |[Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F65C993C8F93F81CC2399D216B70428AFA43B8AF04891EFFF6C1D448A8BC577A) 
 |  - Bug Reports  | [Bug_Reports](./Bug_Reports/) | Issue reports with reproduction steps and observed behavior |
 |  - Test Reports | [Test_Reports](./Test_Reports/) | Metrics and release-level execution summaries |
 |  -  Mindmaps     | [Mindmaps](./Mindmaps/) | QA logic flows and planning diagrams |
