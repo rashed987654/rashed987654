@@ -15,6 +15,16 @@
  - Performance Testing: JMeter	
  - Databases: MySQL, SQL
  - Programming Languages: Java, JavaScript, C#, Python
+ - 
+ - ##  Skill
+ - QTEC SOLUTION – Software development platform | Site Link | Project GitHub Link (Web) | Platform: Playwright with JS | Status: Active
+ - BECHAKEENA  – Wholesale trading platform | Site Link | Project GitHub Link (Admin) | Platform: Playwright with JS | Status: Active
+ - API Testing: REST Assured, Postman				
+ - CI/CD & Version Control: Git, GitHub Actions, Jenkins	
+ - Methodologies: Agile, Scrum		
+ - Performance Testing: JMeter	
+ - Databases: MySQL, SQL
+ - Programming Languages: Java, JavaScript, C#, Python
 
 ##  Projects
  - Automation (Web & Mobile): Playwright, Selenium, TestNG, Appium
