@@ -45,7 +45,7 @@
   - Load Testing (JMeter): Used JMeter for load testing to validate system performance and ensure application stability.
 
 ##  Projects
-  - **QTEC SOLUTION** – Software development platform | [Site Link]([https://www.google.com](https://github.com/rashed987654/playwright-qtecsolution.git)) | Project GitHub Link (Web) | Platform: Playwright with JS | Status: Active
+  - **QTEC SOLUTION** – Software development platform | Site Link | Project GitHub Link (Web) | Platform: Playwright with JS | Status: Active
   - **BECHAKEENA**  – Wholesale trading platform | Site Link | Project GitHub Link (Admin) | Platform: Playwright with JS | Status: Active
   - **WAGELY** – Financial wellness platform | Launch Location: Dhaka | Site Link | Additional Projects: Prepaid Card with MTB, Grocery Benefits with Shwapno, Instant Payments via bKash, BNPL for Smartphones & Insurance with Shadhin Fintech,
   - **RAWBOUGHT** – Online clothing store | Launch Location: Singapore | Site Link | Status: Activeg
