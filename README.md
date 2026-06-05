@@ -29,13 +29,8 @@
  - Stakeholder Communication & Coordination: Coordinated with internal teams, clients, and vendors to ensure smooth execution.	
  - Monitoring & Reporting: Monitored performance and implementation activities, and prepared progress reports.
  - Documentation: Maintained SOPs, technical documents, and implementation records to ensure process consistency.
-
-
-
-
-
-
- - 
+  - Monitoring & Reporting: Monitored performance and implementation activities, and prepared progress reports.
+  - Documentation: Maintained SOPs, technical documents, and implementation records to ensure process consistency.
 ##  Projects
   - QTEC SOLUTION – Software development platform | Site Link | Project GitHub Link (Web) | Platform: Playwright with JS | Status: Active
   - BECHAKEENA  – Wholesale trading platform | Site Link | Project GitHub Link (Admin) | Platform: Playwright with JS | Status: Active
