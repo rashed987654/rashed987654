@@ -20,7 +20,6 @@
 ##  Experience
 ### 1️⃣ Implementation Manager  
 **Wagely** | *Oct 2021 – Jul 2025*
-
 **Key Responsibilities:**
 - Project planning, timelines, budgeting, and resource optimization  
 - Led implementation & field operations with third-party agencies  
