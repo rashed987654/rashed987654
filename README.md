@@ -5,6 +5,7 @@
   - 💬 Ask me about Manual Testing & Automation Engineering
   - 🎯 Goal: Become a strong Automation & Security Testing Engineer by 2026
   - ⚡ Fun fact: I love testing real-world projects and finding edge-case bugs
+  - My Linkedin profile
 
 ##  Skill
  - Automation (Web & Mobile): Playwright, Selenium, TestNG, Appium
@@ -18,8 +19,8 @@
 
 
 ##  Experience
-1. Implementation Manager
-   Wagely | Oct 2021 - Jul 2025
+1. Implementation Manager.
+   Wagely. | Oct 2021 - Jul 2025.
    Key Responsibilities:
  - Project Planning & Coordination: Managed deployment plans, timelines, budgets, and resources, optimizing utilization and ensuring smooth execution and cost efficiency.
  - Implementation & Execution: Led implementation and field operations with third-party agencies, to improve operational efficiency.
