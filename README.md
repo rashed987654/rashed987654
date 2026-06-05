@@ -55,16 +55,11 @@
   - **ERRAND BOY** – Online courier service | Launch Location: Singapore | [Site Link](https://surli.cc/dycvsq) | Status: Inactive
   - **BLISS** – Online hotel booking platform | Launch Location: Singapore | [Site Link](https://www.blisshotel.com.sg/) | Status: Active
 
-##  ertifications
+##  Certifications
 | 📌 Organization    | 📝  Course Name     | 📝 Skill Gained    |   🔗 Link           |
 |---------------------|---------------------|---------------------|---------------------|
 |  - Oracle      | AI Foundations Associate | AI, ML, Deep Learning, LLMs, and Generative AI |[Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F65C993C8F93F81CC2399D216B70428AFA43B8AF04891EFFF6C1D448A8BC577A) 
-|  - LinkedIn    | Web Development    | HTML, CSS, JS,   | [Link]
-|  - LinkedIn    |  Agile methodology | Agile            | [Link]
-|  - EDUONIX    | Linux Fundamental   | LINUX            |[Link]
+|  - LinkedIn    | Web Development          | HTML, CSS, JS,   | [Link]
+|  - LinkedIn    |  Agile methodology       | Agile            | [Link]
+|  - EDUONIX     | Linux Fundamental        | LINUX            |[Link]
 
-
-##  Certifications
- - From Oracle AI Foundations Associate: AI, ML, Deep Learning, LLMs, and Generative AI 	|     Link: bit.ly/oracleAI25
- - From LinkedIn:  HTML, CSS, JavaScript, Agile
- - From EDUONIX:  Linux  
