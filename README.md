@@ -1,5 +1,5 @@
 ## About Me
-  - 🕵️‍♂️ Md Rashed – SDET/Automation Engineer Portfolio
+  - 🕵️‍♂️ Md Rashed – QA Automation Engineer Portfolio
   - 👋 Hi, I am Rashed  - an SDET/Automation Engineer with experience in IT support, project implementation, and managing applications from development to production.
   - 🌱 Currently learning:   Security Testing techniques including Penetration Testing, Vulnerability Assessment, and SQL Injection also   AI Agents, LLM, AI-ML
   - 💬 Ask me about Manual Testing & Automation Engineering
