@@ -45,15 +45,15 @@
   - Load Testing (JMeter): Used JMeter for load testing to validate system performance and ensure application stability.
 
 ##  Projects
-  - QTEC SOLUTION – Software development platform | Site Link | Project GitHub Link (Web) | Platform: Playwright with JS | Status: Active
-  - BECHAKEENA  – Wholesale trading platform | Site Link | Project GitHub Link (Admin) | Platform: Playwright with JS | Status: Active
-  - WAGELY – Financial wellness platform | Launch Location: Dhaka | Site Link | Additional Projects: Prepaid Card with MTB, Grocery Benefits with Shwapno, Instant Payments via bKash, BNPL for Smartphones & Insurance with Shadhin Fintech,
-  - RAWBOUGHT – Online clothing store | Launch Location: Singapore | Site Link | Status: Activeg
-  - KINSHIP AI – HR management system for factory communication| Launch Location: Dhaka | Site Link | Status: Inactive
-  - BOATLAH – Online boat rental platform | Launch Location: Singapore | Site Link| Status: Inactive
-  - HEAVYGARI – Online truck and minivan rental service | Launch Location: Dhaka |  Site Link| Status: Inactive
-  - ERRAND BOY – Online courier service | Launch Location: Singapore | Site Link | Status: Inactive
-  - BLISS – Online hotel booking platform | Launch Location: Singapore | Site Link | Status: Active
+  - **QTEC SOLUTION** – Software development platform | Site Link | Project GitHub Link (Web) | Platform: Playwright with JS | Status: Active
+  - **BECHAKEENA**  – Wholesale trading platform | Site Link | Project GitHub Link (Admin) | Platform: Playwright with JS | Status: Active
+  - **WAGELY** – Financial wellness platform | Launch Location: Dhaka | Site Link | Additional Projects: Prepaid Card with MTB, Grocery Benefits with Shwapno, Instant Payments via bKash, BNPL for Smartphones & Insurance with Shadhin Fintech,
+  - **RAWBOUGHT** – Online clothing store | Launch Location: Singapore | Site Link | Status: Activeg
+  - **KINSHIP AI** – HR management system for factory communication| Launch Location: Dhaka | Site Link | Status: Inactive
+  - **BOATLAH** – Online boat rental platform | Launch Location: Singapore | Site Link| Status: Inactive
+  - **HEAVYGARI** – Online truck and minivan rental service | Launch Location: Dhaka |  Site Link| Status: Inactive
+  - **ERRAND BOY** – Online courier service | Launch Location: Singapore | Site Link | Status: Inactive
+  - **BLISS** – Online hotel booking platform | Launch Location: Singapore | Site Link | Status: Active
 
 
 
