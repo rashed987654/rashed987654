@@ -17,6 +17,19 @@
  - Databases: MySQL, SQL
  - Programming Languages: Java, JavaScript, C#, Python
 
+1️⃣ Implementation Manager
+
+Wagely | Oct 2021 – Jul 2025
+
+Key Responsibilities:
+
+Project planning, timelines, budgeting, and resource optimization
+Led implementation & field operations with third-party agencies
+Conducted testing, validation & defect tracking
+Resolved technical & deployment issues
+Coordinated with clients, vendors & internal teams
+Monitored performance & prepared reports
+
 
 ##  Experience
 1. Implementation Manager.
