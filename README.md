@@ -20,9 +20,9 @@
 
 ##  Experience
 1️⃣ **Implementation Manager**<br>									
-    **Wagely** | *Oct 2021 - Jul 2025*<br>
+    **Wagely** | *Oct 2021 - Jul 2025*<br><br>
     **Key Responsibilities:**
-- Project Planning & Coordination: Managed deployment plans, timelines, budgets, and resources, optimizing utilization and ensuring smooth execution and cost efficiency.	
+    Project Planning & Coordination: Managed deployment plans, timelines, budgets, and resources, optimizing utilization and ensuring smooth execution and cost efficiency.	
   - Implementation & Execution: Led implementation and field operations with third-party agencies, to improve operational efficiency				
   - Testing & QA: Conducted testing, validation, and defect tracking to improve system stability and reliability.	
   - Troubleshooting & Issue Resolution: Identified and resolved technical & deployment issues to ensure stable operations.	
