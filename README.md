@@ -55,7 +55,7 @@
   - **ERRAND BOY** – Online courier service | Launch Location: Singapore | Site Link | Status: Inactive
   - **BLISS** – Online hotel booking platform | Launch Location: Singapore | Site Link | Status: Active
 
-[Site Link]([https://www.google.com](https://github.com/rashed987654/playwright-qtecsolution.git))
+[Google](https://www.google.com)
 
 ##  QA Artifacts
 | 📌 Section      | 🔗 Link            | 📝 Description |
