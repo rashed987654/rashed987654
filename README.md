@@ -27,7 +27,7 @@
   - Stakeholder Communication & Coordination: Coordinated with internal teams, clients, and vendors to ensure smooth execution.	
   - Monitoring & Reporting: Monitored performance and implementation activities, and prepared progress reports.
   - Documentation: Maintained SOPs, technical documents, and implementation records to ensure process consistency.
-
+    
 2️⃣ **Automation QA Engineer**<br>									
     **Kutumbita Ltd** | *Jan 2019 - Jan 2021*<br>
   - Automation Testing (Web & Mobile):  Built Playwright automation frameworks for web and mobile apps, reducing manual testing effort and improving test coverage across multiple releases	
@@ -36,7 +36,7 @@
   - Bug Tracking: Managed defects in Jira with logs, screenshots, and videos, improving resolution time
   - Performance Testing: Designed and executed JMeter performance tests to identify bottlenecks and improve system performance.
   - Testing Types:  Performed functional, regression, and smoke testing, improving product stability and reducing production defects.
-  - 
+    
 3️⃣ **Manual QA Engineer**<br>									
     **HIFI Digital Ltd** | *Jan 2018 - Dec 2018*<br>
   - Test Planning & Design: Created test plans, designed test cases, and prepared test data, ensuring better product quality.
