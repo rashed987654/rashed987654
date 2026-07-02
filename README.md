@@ -21,7 +21,7 @@
 1️⃣ **Implementation Manager**<br>									
     **Wagely** | *Oct 2021 - Jul 2025*<br>
   - Client Onboarding & Delivery: Managed end-to-end software implementation and client onboarding across RMG, FMCG, and healthcare industries, successfully onboarding 25+ companies through testing, validation, and defect resolution.
-- Technical Support & Issue Resolution: Resolved technical and configuration issues to ensure smooth onboarding & stable operations.
+- Technical Support & Issue Resolution: Resolved technical & configuration issues to ensure smooth onboarding & stable operations.
 - Client & Stakeholder Coordination: Coordinated with clients and stakeholders to ensure alignment and successful delivery.
 
     
