@@ -26,16 +26,17 @@
 
     
 2️⃣ **Automation QA Engineer**<br>									
-    **Kutumbita Ltd** | *Jan 2019 - Jan 2021*<br>
-  - Automation Testing (Web & Mobile):  Built Playwright automation frameworks for web and mobile apps, reducing manual testing effort and improving test coverage across multiple releases	
-  - API Testing: Conducted API validation using Postman & REST Assured
-  - CI/CD: Integrated automated test into Jenkins pipelines for continuous testing and reducing release validation time
-  - Bug Tracking: Managed defects in Jira with logs, screenshots, and videos, improving resolution time
-  - Performance Testing: Designed and executed JMeter performance tests to identify bottlenecks and improve system performance.
-  - Testing Types:  Performed functional, regression, and smoke testing, improving product stability and reducing production defects.
+    **Kutumbita Ltd** | *Sep 2019 - Sep 2021*<br>
+ - Automation (Web): Used Playwright automation framework, reducing manual testing effort & saving execution time.
+ - Automation (Mobile): Used Appium automation framework, reducing manual testing effort & saving execution time
+ - CI/CD Integration: Used GitHub Actions CI/CD pipelines, reducing pre-production defects
+ - API Testing: Performed API testing using Postman & REST Assured, improving backend defect detection.
+ - Bug Tracking: Tracked defects in Jira with logs, screenshots, and videos, improving resolution time
+ - Performance Testing: Used JMeter to validate system stability and scalability.
+
     
 3️⃣ **Manual QA Engineer**<br>									
-    **HIFI Digital Ltd** | *Jan 2018 - Dec 2018*<br>
+    **HIFI Digital Ltd** | *July 2018 - Aug 2019*<br>
   - Test Planning & Design: Created test plans, designed test cases, and prepared test data, ensuring better product quality.
   - Manual Testing (Web & Mobile): Executed functional, regression, and smoke tests, improving application quality and stability.
   - Defect Tracking: Reported and tracked bugs in Jira, improving issue resolution and product stability.
