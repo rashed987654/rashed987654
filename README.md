@@ -42,6 +42,15 @@
   - Defect Tracking: Reported and tracked bugs in Jira, improving issue resolution and product stability.
   - Load Testing (JMeter): Used JMeter for load testing to validate system performance and ensure application stability.
 
+##  Experience
+4️⃣ **IT Support Engineer**<br>									
+    **HIFI Digital Ltd** | *Jan 2018 - Jun 2018*<br>
+  - Installed and maintained IT infrastructure (PCs, laptops, printers, scanners, biometric devices).
+  - Delivered on-site/remote support, resolving hardware, software, OS, and network issues.
+  - Assisted with LAN/WAN setup and configuration (routers, switches, access points)
+  - Supported end-users with Outlook, Teams, and other tools; managed service requests via Jira.
+  - Maintained documentation, applied updates/patches (Windows/Linux), and ensured backups and data safety.
+
 ##  Projects
   - **QTEC SOLUTION** – Software development platform | [Site Link](https://staging.qtecsolution.com/) | [Project GitHub Link](https://github.com/rashed987654/playwright-qtecsolution.git) (Web) | Platform: Playwright with JS | Status: Active
   - **BECHAKEENA**  – Wholesale trading platform | [Site Link](https://devcore.bechakeena.com/login) | [Project GitHub Link](https://github.com/rashed987654/playwright-admin_panel.git) (Admin) | Platform: Playwright with JS | Status: Active
