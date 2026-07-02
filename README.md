@@ -42,7 +42,6 @@
   - Defect Tracking: Reported and tracked bugs in Jira, improving issue resolution and product stability.
   - Load Testing (JMeter): Used JMeter for load testing to validate system performance and ensure application stability.
 
-##  Experience
 4️⃣ **IT Support Engineer**<br>									
     **HIFI Digital Ltd** | *Jan 2018 - Jun 2018*<br>
   - Installed and maintained IT infrastructure (PCs, laptops, printers, scanners, biometric devices).
