@@ -26,7 +26,7 @@
 
     
 2️⃣ **Product Analyst**<br>									
-    **Kutumbita Ltd** | *My 2021 - Sep 2021*<br>
+    **Kutumbita Ltd** | *May 2021 - Sep 2021*<br>
  - Product Analysis: Analyze product usage, user behavior, and customer feedback to generate insights.
  - Problem Identification: Using these insights, identify product problems & improvement opportunities.
  - Performance Tracking: Monitor product performance and KPIs.
