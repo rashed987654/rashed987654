@@ -1,5 +1,5 @@
 ## About Me
-  - 🕵️‍♂️ Md Rashed – QA Automation Engineer Portfolio
+  - 🕵️‍♂️ Md Rashed
   - 👋 Hi, I am Rashed  - IT professional specializing in software implementation, product analysis, IT operations, and Quality Assurance (QA), with expertise in system deployment, product performance analysis, technical support, troubleshooting, and software testing to ensure quality and successful project delivery.
   - 🌱 Currently learning:   Security Testing techniques including Penetration Testing, Vulnerability Assessment, and SQL Injection also   AI Agents, LLM, AI-ML
   - 💬 Ask me about software implementation, product analysis,, Manual Testing & Automation Engineering
