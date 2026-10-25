@@ -25,24 +25,32 @@
 - Client & Stakeholder Coordination: Coordinated with clients and stakeholders to ensure alignment and successful delivery.
 
     
-2️⃣ **Automation QA Engineer**<br>									
-    **Kutumbita Ltd** | *Sep 2019 - Sep 2021*<br>
+2️⃣ **Product Analyst**<br>									
+    **Kutumbita Ltd** | *My 2021 - Sep 2021*<br>
+ - Product Analysis: Analyze product usage, user behavior, and customer feedback to generate insights.
+ - Problem Identification: Using these insights, identify product problems & improvement opportunities.
+ - Performance Tracking: Monitor product performance and KPIs.
+ - Feature Analysis: Measure new feature success (through A/B testing).
+ - Recommendations: Suggested Product improvements & data-driven decisions based on insights.
+
+    
+3️⃣ **Automation QA Engineer**<br>									
+    **Kutumbita Ltd** | *Sep 2019 - Apr 2021*<br>
  - Automation (Web): Used Playwright automation framework, reducing manual testing effort & saving execution time.
  - Automation (Mobile): Used Appium automation framework, reducing manual testing effort & saving execution time
  - CI/CD Integration: Used GitHub Actions CI/CD pipelines, reducing pre-production defects
  - API Testing: Performed API testing using Postman & REST Assured, improving backend defect detection.
  - Bug Tracking: Tracked defects in Jira with logs, screenshots, and videos, improving resolution time
  - Performance Testing: Used JMeter to validate system stability and scalability.
-
     
-3️⃣ **Manual QA Engineer**<br>									
+4️⃣ **Manual QA Engineer**<br>									
     **HIFI Digital Ltd** | *July 2018 - Aug 2019*<br>
   - Test Planning & Design: Created test plans, designed test cases, and prepared test data, ensuring better product quality.
   - Manual Testing (Web & Mobile): Executed functional, regression, and smoke tests, improving application quality and stability.
   - Defect Tracking: Reported and tracked bugs in Jira, improving issue resolution and product stability.
   - Load Testing (JMeter): Used JMeter for load testing to validate system performance and ensure application stability.
 
-4️⃣ **IT Support Engineer**<br>									
+5️⃣ **IT Support Engineer**<br>									
     **HIFI Digital Ltd** | *Jan 2018 - Jun 2018*<br>
   - Installed and maintained IT infrastructure (PCs, laptops, printers, scanners, biometric devices).
   - Delivered on-site/remote support, resolving hardware, software, OS, and network issues.
