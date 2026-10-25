@@ -5,7 +5,7 @@
   - 💬 Ask me about software implementation, product analysis,, Manual Testing & Automation Engineering
   - 🎯 Goal: Become a strong Automation & Security Testing Engineer by 2026
   - ⚡ Fun fact: I love testing real-world projects and finding edge-case bugs
-  - My Linkedin profile
+  - My Linkedin profile:  https://www.linkedin.com/in/md-rashed2023/
 
 ##  Skill
  - Automation (Web & Mobile): Playwright, Selenium, TestNG, Appium
